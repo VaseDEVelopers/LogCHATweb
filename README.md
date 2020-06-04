@@ -1,2 +1,2 @@
 # LogCHATweb
-LogCHAT - Website 
+LogCHAT App - Website 
